@@ -35,7 +35,7 @@ timezone: "IN" # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zone
 author:
   type      : Qubit Neuro # "person" (default), "organization"
   name      : QubitNeuro
-  url       : qubitneuro.github.io
+  url       : https://qubitneuro.github.io
   avatar    : # path or url of avatar image (square)
   bio       : Journal to document learning QIS/QM and other mathematical and theoretical physics concepts.
   email     :
