@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Math for physics
+title: Probability
 tags: Math
 article_header:
   type: cover
