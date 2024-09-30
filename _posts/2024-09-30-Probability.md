@@ -18,7 +18,7 @@ Following through stats book by [Joe](https://projects.iq.harvard.edu/stat110) v
 |---------|----------|------|
 | **1. Probability and Counting** | ❌ |  |
 | **2. Conditional Probability** | ❌ |  |
-| **3. Random Variables and Their Distributions** | ❌ | 4-Oct-25 |
+| **3. Random Variables and Their Distributions** | ❌ | 4-Oct-24 |
 | **4. Expectation** | ❌ |  |
 | **5. Continuous Random Variables** | ❌ |  |
 | **6. Moments** | ❌ |  |
